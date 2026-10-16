@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "as_of": "2026-10-11",
+  "classification": "DEVELOPMENT_ONLY",
+  "dates": [
+    "20190101",
+    "20190102",
+    "20190103",
+    "20190104",
+    "20190107",
+    "20200302",
+    "20200303",
+    "20200304",
+    "20200305",
+    "20200306",
+    "20210201",
+    "20210202",
+    "20210203",
+    "20210204",
+    "20210205",
+    "20220601",
+    "20220602",
+    "20220603",
+    "20220606",
+    "20220607",
+    "20230102",
+    "20230103",
+    "20230104",
+    "20230105",
+    "20230106",
+    "20230201",
+    "20230202",
+    "20230203",
+    "20230206",
+    "20230207"
+  ],
+  "quarantined_dates": [
+    "20230104"
+  ],
+  "holdout_eligible": false,
+  "note": "Price inspection consumes these dates for this research process; source/date registry does not prove a model has never seen other public history."
+}

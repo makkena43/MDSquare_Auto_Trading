@@ -1,0 +1,20 @@
+{
+  "specification_version": "2.6",
+  "skill_version": "0.10.0",
+  "schema_version": "0.9.0",
+  "scope": "REQUIREMENTS_SYNTHESIS_ONLY",
+  "review_passes": 5,
+  "chapter_topics_mapped": 83,
+  "requirement_families": 30,
+  "compatibility_tensions": 22,
+  "acceptance_scenarios": 34,
+  "independent_scenario_evaluation": "NOT_RUN",
+  "selected_text_pages_reviewed_or_revisited_this_pass": 56,
+  "new_visual_chart_reviews": 0,
+  "additional_reversals_pdf_read": "STALLED_NOT_COUNTED",
+  "full_three_book_review_complete": false,
+  "local_links_checked": 150,
+  "contract_example_parse": "PASSED",
+  "skill_format": "PASSED",
+  "runtime_or_market_validation": false
+}

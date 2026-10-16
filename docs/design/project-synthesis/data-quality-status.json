@@ -1,0 +1,75 @@
+{
+  "status": "UNRESOLVED_PRIMARY_RECONCILIATION_REQUIRED",
+  "source": "technovusin/nifty50-historical-data at pinned manifest commit",
+  "observed_issue": "Identical zero-range five-minute bars across 15:15\u201315:25 IST on all ten sampled September/October 2026 sessions",
+  "repair_performed": false,
+  "primary_reference_available": false,
+  "affected_intervals": [
+    {
+      "date": "2026-09-25",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-09-28",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-09-29",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-09-30",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-10-01",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-10-05",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-10-06",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-10-07",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-10-08",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    },
+    {
+      "date": "2026-10-09",
+      "start": "15:15:00+05:30",
+      "end": "15:25:00+05:30",
+      "quality": "SUSPECT"
+    }
+  ],
+  "release_requirements": [
+    "Verify exact instrument/timezone/interval semantics against independent broker or primary source",
+    "Retain discrepancy and transform audit plus raw originals",
+    "Record availability and source revisions",
+    "Re-evaluate affected decisions/exit reliability under a new declared experiment, never overwrite old decisions"
+  ]
+}

@@ -4,10 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mdsquare-auto-trading"
-version = "0.0.1"
+version = "0.1.0"
 description = "MDSquare automatic trading system"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = ["requests>=2.32,<3", "PyYAML>=6,<7"]
+
+[project.scripts]
+mdsquare = "mdsquare_trading.cli:main"
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]

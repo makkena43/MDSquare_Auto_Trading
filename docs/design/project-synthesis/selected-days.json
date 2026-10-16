@@ -1,0 +1,102 @@
+[
+  {
+    "month": "2019/JAN",
+    "days": [
+      "01JAN",
+      "02JAN",
+      "03JAN",
+      "04JAN",
+      "07JAN"
+    ],
+    "directory_names": [
+      "01JAN",
+      "02JAN",
+      "03JAN",
+      "04JAN",
+      "07JAN",
+      "08JAN",
+      "09JAN",
+      "10JAN"
+    ]
+  },
+  {
+    "month": "2020/MAR",
+    "days": [
+      "02MAR",
+      "03MAR",
+      "04MAR",
+      "05MAR",
+      "06MAR"
+    ],
+    "directory_names": [
+      "02MAR",
+      "03MAR",
+      "04MAR",
+      "05MAR",
+      "06MAR",
+      "09MAR",
+      "11MAR",
+      "12MAR"
+    ]
+  },
+  {
+    "month": "2021/FEB",
+    "days": [
+      "01FEB",
+      "02FEB",
+      "03FEB",
+      "04FEB",
+      "05FEB"
+    ],
+    "directory_names": [
+      "01FEB",
+      "02FEB",
+      "03FEB",
+      "04FEB",
+      "05FEB",
+      "08FEB",
+      "09FEB",
+      "10FEB"
+    ]
+  },
+  {
+    "month": "2022/JUN",
+    "days": [
+      "01JUN",
+      "02JUN",
+      "03JUN",
+      "06JUN",
+      "07JUN"
+    ],
+    "directory_names": [
+      "01JUN",
+      "02JUN",
+      "03JUN",
+      "06JUN",
+      "07JUN",
+      "08JUN",
+      "09JUN",
+      "10JUN"
+    ]
+  },
+  {
+    "month": "2023/JAN",
+    "days": [
+      "02JAN",
+      "03JAN",
+      "04JAN",
+      "05JAN",
+      "06JAN"
+    ],
+    "directory_names": [
+      "02JAN",
+      "03JAN",
+      "04JAN",
+      "05JAN",
+      "06JAN",
+      "09JAN",
+      "10JAN",
+      "11JAN"
+    ]
+  }
+]

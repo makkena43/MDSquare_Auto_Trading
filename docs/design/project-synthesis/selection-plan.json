@@ -1,0 +1,8 @@
+{
+ "version":"0.1.0", "created":"2026-10-11", "purpose":"data/regime feasibility inspection; no strategy tuning",
+ "repository":"aeron7/nifty-banknifty-intraday-data", "commit":"906fc2378b82e50de78f62844a3ecb3f9306a85d",
+ "target_months":["2019/JAN","2020/MAR","2021/FEB","2022/JUN","2023/JAN"],
+ "selection_rule":"First five calendar-ordered trading-day directories published in each target month. Select before prices are fetched. Both NIFTY and BANKNIFTY. Record missing paths; no replacement based on price outcomes.",
+ "already_reviewed":"2023-02-01,02,03,06,07",
+ "partition":"All retrieved or inspected data is development only. No future holdout selected or opened here."
+}

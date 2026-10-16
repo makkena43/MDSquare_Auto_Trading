@@ -1,0 +1,26 @@
+{
+  "mode": "PAPER_RESEARCH",
+  "history_calendar_days": 30,
+  "daily_calendar_days": 90,
+  "settle_seconds": 5,
+  "max_decision_age_seconds": 120,
+  "session_entry_cutoff": "15:00",
+  "session_flat_at": "15:25",
+  "holidays": [],
+  "categories": {
+    "breakout": false,
+    "bullish_momentum": false,
+    "bearish_momentum": false,
+    "bullish_mild": false,
+    "bearish_mild": false,
+    "sideways": false,
+    "reversals": false
+  },
+  "setups": {},
+  "paper_policy_registered": false,
+  "stop_buffer_points": null,
+  "round_trip_cost_points": null,
+  "minimum_reward_risk": null,
+  "context_five_minute_bars": 150,
+  "context_daily_bars": 60
+}

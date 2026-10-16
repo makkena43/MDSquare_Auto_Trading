@@ -1,0 +1,42 @@
+{
+  "version": "0.8.0",
+  "status": "PLANNED_NOT_EXECUTED",
+  "interpretation_stream": [
+    "context",
+    "correction ancestry",
+    "opposition coverage",
+    "stop/target coherence",
+    "expert disagreements"
+  ],
+  "execution_stream": [
+    "request/response/validation/arm timestamps",
+    "pre-arming misses",
+    "expiry",
+    "malformed/stale responses",
+    "fills and ambiguity"
+  ],
+  "economic_stream": [
+    "fixed-policy net episode results",
+    "cost sensitivity",
+    "session/block dependence",
+    "drawdown"
+  ],
+  "inspected_dates_are_development": [
+    "2026-09-25",
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-05",
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09"
+  ],
+  "uninspected_validation_dates": null,
+  "frozen_model_and_settings": null,
+  "measured_provider_latency": null,
+  "baseline_and_acceptance_thresholds": null,
+  "holdout_registered": false,
+  "rule": "No outcome-based revisions, trade quotas or claimed measured probability; register missing experiment fields before scoring"
+}

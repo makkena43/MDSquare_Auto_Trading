@@ -1,0 +1,472 @@
+[
+  {
+    "file": "2019-JAN-01JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/01JAN/01JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "99d27efce18e7bd30d19555b15f2c1c22b627de0998df80bbbc4ad25958bb9d6",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-01JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/01JAN/01JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "21d075a7f041a1e57982f1c24a208a1f3eb58f5453ee3277999bb792bec009bd",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-02JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/02JAN/02JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "98f7e3609a445c49bd59a280ed1941a8b083e32d7b50f71e9375a26ca70dc786",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-02JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/02JAN/02JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "1fe4835e0c8a43fe7bb6b1e6688abfb79be7baf9e8e903ae9f5ef1eb011a490c",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-03JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/03JAN/03JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "fda0bb8e38285f064da32ddcecb8833a8ca43731c59aa40207943e13d0e3262e",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-03JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/03JAN/03JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "9b9dcbec25640514171c4e20fea608d7fa50cd4b57d188b2c1238aa8b46f59c0",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-04JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/04JAN/04JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "10352ccfcb8a457e7b3233a453d1103d784037c7dcfc62aee1160919dccbe4ce",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-04JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/04JAN/04JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "472a59bcf6796e5ca17d5f737d7fe75b693a320ce227394c6ecfbc57cce61203",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-07JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/07JAN/07JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "a86ce23e9e3a5f36a695f2fb8dfc050587a4733960304e9c085721fccb15abfd",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2019-JAN-07JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2019/JAN/07JAN/07JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "6f22629f53ae7d0235e5cdbe464f61d9a034da45eb83553fd1fef4d9cf1bc3e1",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-02MAR-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/02MAR/02MAR/NIFTY.txt",
+    "bytes": 23119,
+    "sha256": "ec991b060d501e1bf8ee2f7d2ebb4b9a278896fec9a7171396f222bbe167745a",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-02MAR-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/02MAR/02MAR/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "e9dc7504d6ad4f15d4290d8177a648d9d295f216b2ed61b431b117ba0f042d1f",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-03MAR-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/03MAR/03MAR/NIFTY.txt",
+    "bytes": 23119,
+    "sha256": "106b3cd1e985c01e6c346c9586e6283dcbe3748a6c01251954295b6963575aa1",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-03MAR-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/03MAR/03MAR/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "78ee8c745a49b0b5e98b2cdd34b3e97648da95911b7893202031446fc13bfc7c",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-04MAR-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/04MAR/04MAR/NIFTY.txt",
+    "bytes": 23119,
+    "sha256": "abf77711dbe9a49560d847096688a77989e94cbd462043f585b85bd2565201a7",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-04MAR-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/04MAR/04MAR/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "26597016ba9da01c08916692f6f573e6c29eeff58bc4c00d7659833eaf747fa3",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-05MAR-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/05MAR/05MAR/NIFTY.txt",
+    "bytes": 23119,
+    "sha256": "d12833a863abe02a6473d4a28211cc7e0f834b982f8b6ec0c045d921633452ef",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-05MAR-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/05MAR/05MAR/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "6f89be3e8c9ee2c801d77c3dedcd078f2480ae1f999073d50337626ad3f72dd3",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-06MAR-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/06MAR/06MAR/NIFTY.txt",
+    "bytes": 23119,
+    "sha256": "a5993cad27654a060eeae821caedc6817769ac70c0b8452b7f0e15dcd8033583",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2020-MAR-06MAR-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2020/MAR/06MAR/06MAR/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "ab7aa3931fe6b29fd43580e55d2f2976eeee3482ce4eb05478b47476714af1a4",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-01FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/01FEB/01FEB/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "eb6f644a477f846b59c3c753554dc8bd6ff153476495e81c1af5c341ed2968ee",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-01FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/01FEB/01FEB/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "cbd84f2c2bd6ddc40da31f9cceb77be369af1d58bbea1086608687b46e62bd90",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-02FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/02FEB/02FEB/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "586c01e2aee4a8a12286f35eacd04de707a826e5ae60e9ed33c21e7e24483cae",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-02FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/02FEB/02FEB/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "8f9ad90c926d3761f92febd7d8728fa8ad5edd7a59359d004dbec76909e4a3a9",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-03FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/03FEB/03FEB/NIFTY.txt",
+    "bytes": 22997,
+    "sha256": "bb78468edde66d596dd71c66510eebadc53cf525b3bc961dcef2295e91e71434",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-03FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/03FEB/03FEB/BANKNIFTY.txt",
+    "bytes": 24505,
+    "sha256": "0bf01c37d0d4439442bf10574960455e57c88905a34ff827b068152d85b10bac",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-04FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/04FEB/04FEB/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "9ec40ebcc3d278235d380258467d577f9373c24c36165e3ccaeb2a55f3156464",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-04FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/04FEB/04FEB/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "4061a5eef93767b5982ac13300cb1056cb941533745e04c430a6433ca68208f6",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-05FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/05FEB/05FEB/NIFTY.txt",
+    "bytes": 22997,
+    "sha256": "7a774412e5acb45434c83e2b468af7d390d33e37c0637088572a354e46416e51",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2021-FEB-05FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2021/FEB/05FEB/05FEB/BANKNIFTY.txt",
+    "bytes": 24505,
+    "sha256": "04225bb35ebf2bfb9660fcbf516c99b8e1bc442c4a6f9d34acd0feeb4a55992c",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-01JUN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/01JUN/01JUN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "47737c8e5ecfafe5a628502c15a27671eb7626cdfb7ac71c58b7e3e06dcff542",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-01JUN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/01JUN/01JUN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "3948523d84b9e63069601a7eff19e5901dfe34e72a195e63810ce08453ea6552",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-02JUN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/02JUN/02JUN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "6c961140a90662091039219922221402b95a3ac75ed9dee2a8bc25724ae214b8",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-02JUN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/02JUN/02JUN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "be57e34017bb500a659186c46e2058da4250024b2e421daa5fbc65e996da5403",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-03JUN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/03JUN/03JUN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "3883f39a708e74de7d45e543bf03df05a9428b3d570ccd89afef78e982e06317",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-03JUN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/03JUN/03JUN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "5cfd03b6e66ed6b8ffb2e7f4d35b59ba0996457382947a581288227b1e36d815",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-06JUN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/06JUN/06JUN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "4ff4d70cbdf0093dfbc1adf4ec6b0eb5754701eae0061a26e98a554606123d3a",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-06JUN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/06JUN/06JUN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "1e337c91471d474aefead3297c0fbc1a3f9cffd38a8d426075ecaa1f8da87cf3",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-07JUN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/07JUN/07JUN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "89b0dafea90e6d7927ffd3bc6d6f45eb526d641c3978813507521f4a898258cd",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2022-JUN-07JUN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2022/JUN/07JUN/07JUN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "83dcf7b0b7b44d7e50bf932c31206c850642e5c3578c5046d7e7c928f96a4a0d",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-02JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/02JAN/02JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "e430eec3b45b53cdc50b65c6889179ae16c4dfcae129f61b0c984ddccea97185",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-02JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/02JAN/02JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "c442f4245159862cfb2f081388287f0053517cb6b5be004b397d91b5d8dad142",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-03JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/03JAN/03JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "e82ac9638fc4ac7d9ca2c54ed562bbde70e33aa3ed0155ff92d23d9abd231fc9",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-03JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/03JAN/03JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "768643f4c6e0aa6dd686919cf0ab2600d9d10448247dccf5d2340d32ebb969d6",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-04JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/04JAN/04JAN/NIFTY.txt",
+    "bytes": 46116,
+    "sha256": "85c70b21f74f652cee2fc634bbb022c59031821637379f8e11ce996cf53048f8",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-04JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/04JAN/04JAN/BANKNIFTY.txt",
+    "bytes": 49140,
+    "sha256": "07dfbad451db8fa2a6a1686a409233218fdf71c4c0ea908aa7baa129c1022017",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-05JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/05JAN/05JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "3fe5d7ddfb30bc72b0893e4983e2dfe5d5957b473f26ae2e128dd5630955bc5c",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-05JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/05JAN/05JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "f91e6f6d42548a809655d63a2bd7e52aa56bdb499cb19b05fc276d3ac92ca06c",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-06JAN-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/06JAN/06JAN/NIFTY.txt",
+    "bytes": 23058,
+    "sha256": "48eec1e8c6efdd322494d2590cd72be1e28638c45e6e655e470d09d98aa74b16",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "2023-JAN-06JAN-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/JAN/06JAN/06JAN/BANKNIFTY.txt",
+    "bytes": 24570,
+    "sha256": "fa96ccc3c8147405c08f5be375b402ae235648469029c6e071c6ca69d68ee399",
+    "layout_attempts": [],
+    "sample_group": "predeclared_expansion"
+  },
+  {
+    "file": "01FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/01FEB/01FEB/NIFTY.txt",
+    "sha256": "ca4b704f76b3eac87a1d2a6e0196af206b6be4713618e786c42eae7972b30857",
+    "bytes": 23058,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "01FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/01FEB/01FEB/BANKNIFTY.txt",
+    "sha256": "164bd849a9d74b0d7e9867c71574000251a1c67e65f34bf62f2f329afc7988f4",
+    "bytes": 24570,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "02FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/02FEB/02FEB/NIFTY.txt",
+    "sha256": "2b48f138a6660c451e443d3bc0ea9abfc75aa1764ffd9dd3cd8ab6f234298dec",
+    "bytes": 23058,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "02FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/02FEB/02FEB/BANKNIFTY.txt",
+    "sha256": "6149173a4bf86999a6a2572e103e1e75bc05d67bff55dd7524a734860da9ae01",
+    "bytes": 24570,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "03FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/03FEB/03FEB/NIFTY.txt",
+    "sha256": "f56a29a6c8f1e71aa59e806c7a8ddc83efe4cb666db7ae7c7d549b3ed9dfa416",
+    "bytes": 23058,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "03FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/03FEB/03FEB/BANKNIFTY.txt",
+    "sha256": "29c0f61f2a95f721ccd4b724a990a58eed6f26e6e8a5c62afd7da63b2c44781f",
+    "bytes": 24570,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "06FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/06FEB/06FEB/NIFTY.txt",
+    "sha256": "c434d6fade708ffeca90049792868bff1b86685faa2529e1ff1e1338c270815c",
+    "bytes": 23058,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "06FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/06FEB/06FEB/BANKNIFTY.txt",
+    "sha256": "f67e9f5a3f570c8a72978bfa44a1c0ca7aba37e031731c2edb707a9282ee0e38",
+    "bytes": 24570,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "07FEB-NIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/07FEB/07FEB/NIFTY.txt",
+    "sha256": "9c51cdbc8d047ca65971cfd9bcadd55cf8102d829dec4cc102dc24a3619560c7",
+    "bytes": 23058,
+    "sample_group": "previously_reviewed_2023_02"
+  },
+  {
+    "file": "07FEB-BANKNIFTY.csv",
+    "url": "https://raw.githubusercontent.com/aeron7/nifty-banknifty-intraday-data/906fc2378b82e50de78f62844a3ecb3f9306a85d/2023/FEB/07FEB/07FEB/BANKNIFTY.txt",
+    "sha256": "298f289b9d33f35543e8af293711f15b778d8bab333278188f75ab226669195f",
+    "bytes": 24570,
+    "sample_group": "previously_reviewed_2023_02"
+  }
+]

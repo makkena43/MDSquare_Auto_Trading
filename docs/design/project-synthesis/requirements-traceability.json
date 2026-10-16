@@ -1,0 +1,225 @@
+{
+  "version": "2.6",
+  "chapter_topics_mapped": 83,
+  "by_book": {
+    "Trends": 26,
+    "Trading Ranges": 32,
+    "Reversals": 25
+  },
+  "requirement_families": [
+    {
+      "id": "R01",
+      "requirement": "Source teaching versus system policy/scope",
+      "source_topics": "All books",
+      "control": "Compatibility audit; no policy silently inherited",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R02",
+      "requirement": "Market cycle and provisional session interpretation",
+      "source_topics": "Trends 1\u20133,19\u201326; Ranges 1\u20135,21\u201323",
+      "control": "Market phase precedes pattern",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R03",
+      "requirement": "Pressure and qualitative always-in bias",
+      "source_topics": "Reversals 15; Trends 19",
+      "control": "Bias is not mandatory exposure",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R04",
+      "requirement": "Setup/signal/entry/follow-through chronology",
+      "source_topics": "Trends 4\u20138",
+      "control": "No later entry or follow-through known at initial cutoff",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R05",
+      "requirement": "Context-specific signal qualification",
+      "source_topics": "Trends 4,6,19,23",
+      "control": "Weak-bar continuation versus stronger reversal burden",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R06",
+      "requirement": "Spike, maturity and exhaustion",
+      "source_topics": "Trends 19,21,23; Reversals 4",
+      "control": "Large bar initiation versus late climax",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R07",
+      "requirement": "Microchannel and first opposing break",
+      "source_topics": "Trends 16",
+      "control": "Parent context; no automatic reversal",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R08",
+      "requirement": "Broad channels, stairs and overlapping tests",
+      "source_topics": "Trends 15,22,26",
+      "control": "Through-boundary test can retain parent swing",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R09",
+      "requirement": "Causal trend/channel lines and horizontal levels",
+      "source_topics": "Trends 13\u201317",
+      "control": "Anchor availability and retrospective redraw prohibited",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R10",
+      "requirement": "Parent/nested H1/H2/L1/L2 counting",
+      "source_topics": "Trends 10,20; Ranges 16\u201317",
+      "control": "Interruption evidence and count ambiguity",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R11",
+      "requirement": "First-pullback hierarchy",
+      "source_topics": "Ranges 11,13\u201314",
+      "control": "Types and sequence not one fixed order",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R12",
+      "requirement": "Double-test, wedge and compression annotations",
+      "source_topics": "Ranges 12,18\u201320,23; Reversals 5\u20138",
+      "control": "Same shape can support different theses; observation separate from enablement",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R13",
+      "requirement": "Breakout strength and family-specific acceptance",
+      "source_topics": "Ranges 1\u20134,27",
+      "control": "No universal two-close or mandatory-retest rule",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R14",
+      "requirement": "Failure, failed failure and breakout tests",
+      "source_topics": "Ranges 5,32; Reversals 9",
+      "control": "Preserve original episode and distinct successor",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R15",
+      "requirement": "Gaps and geometry",
+      "source_topics": "Ranges 6,8; Reversals 17\u201320",
+      "control": "Session gap versus bar/MA gap; no compulsory fill",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R16",
+      "requirement": "Magnet, checkpoint and barrier",
+      "source_topics": "Ranges 9\u201310; Trends 17",
+      "control": "Passage thesis plus local/parent opposition",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R17",
+      "requirement": "Range width and location",
+      "source_topics": "Ranges 21\u201323; Trends 22",
+      "control": "Relative structure; tight-range prohibition, wide-edge rotation",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R18",
+      "requirement": "Minor/early/major reversal distinction",
+      "source_topics": "Reversals 1\u20133,8\u20139",
+      "control": "Burden of evidence; early trade differs from confirmed major reversal",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R19",
+      "requirement": "Climax, overshoot and final-flag warnings",
+      "source_topics": "Reversals 4\u20137; Trends 24",
+      "control": "No automatic fade or hindsight final label",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R20",
+      "requirement": "Opening and session-context hypotheses",
+      "source_topics": "Reversals 11,17\u201320; Trends 23,25",
+      "control": "Gap can trend either direction; late-resumption alternative",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R21",
+      "requirement": "Higher-timeframe context and focus",
+      "source_topics": "Reversals 13,22; Trends 20",
+      "control": "Primary 5m; completed larger bars, no obligatory every-entry alignment",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R22",
+      "requirement": "Stop-to-thesis match and original/current geometry",
+      "source_topics": "Ranges 29; Reversals 25",
+      "control": "Full correction versus base versus excursion; no stop widening",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R23",
+      "requirement": "Projection convention and confirmation",
+      "source_topics": "Ranges 7\u201310,30",
+      "control": "Equality, spike, range, gap distinct; initial risk versus later actual risk",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R24",
+      "requirement": "Probability, costs and trader equation",
+      "source_topics": "Ranges 24\u201326; Reversals 25",
+      "control": "Objective-before-stop calibration unknown; no 80% sizing",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R25",
+      "requirement": "Consistent management and exit-versus-reverse",
+      "source_topics": "Ranges 29\u201331; Reversals 25",
+      "control": "Hold normal correction; defeated premise under declared exit policy",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R26",
+      "requirement": "Scaling, entry styles and risk authority",
+      "source_topics": "Ranges 27\u201331; Reversals 16,23",
+      "control": "Advanced routes deferred; finite preplanned adds WATCH_ONLY",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R27",
+      "requirement": "Opportunity coverage and anti-overfiltering",
+      "source_topics": "Trends 11\u201312; Ranges 11,26",
+      "control": "Eligible initiating/first/second/test routes; no trade quota",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R28",
+      "requirement": "Cutoff evaluation, failures and discipline",
+      "source_topics": "Reversals 21,24\u201325; Trends 18",
+      "control": "Untouched sessions and separate execution/economic scoring",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R29",
+      "requirement": "NSE data/session/instrument adaptation",
+      "source_topics": "Reversals 10\u201314,17\u201320,22\u201323; Trends 9",
+      "control": "No US tick/clock/volume transfer; source reconciliation required",
+      "independent_validation": "NOT_RUN"
+    },
+    {
+      "id": "R30",
+      "requirement": "Durable continuity and processor handover",
+      "source_topics": "System requirement, not book teaching",
+      "control": "Authoritative state separate from narrative; revisions/fencing",
+      "independent_validation": "NOT_RUN"
+    }
+  ],
+  "full_three_book_review_complete": false,
+  "additional_reversals_pdf_review": "NOT_COMPLETED_CURRENT_ICLOUD_READ_STALLED",
+  "runtime_implementation": false,
+  "profitability_validated": false
+}

@@ -5,3 +5,10 @@ __pycache__/
 .venv/
 .env
 data/
+
+.idea/
+.env.*
+!.env.example
+*.sqlite3
+*.sqlite3-*
+runtime/
